@@ -1,0 +1,1 @@
+# ligocki_sklep
