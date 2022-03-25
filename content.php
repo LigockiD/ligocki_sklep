@@ -1,39 +1,4 @@
-<!DOCTYPE html>
-    <head>
-        <title>Sklep</title>
-        <link href="./css/main.css" rel="stylesheet">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-        <meta charset="UTF-8">
-    </head>
-    <body>
-        <div class="container">
-            <div class="col-12 header">
-                <h1>Najlepszy sklep ever</h1>
-                <br><br><br><br><br><br><br>
-                <p>To napewno nie jest scam. Potwierdzam.</p>
-            </div>
-            <div class="row">
-                <div class="col-2">
-                    <a href="./index.html">Strona Główna</a>
-                </div>
-                <div class="col-1">
-                    <a href="#">Link 2</a>
-                </div>
-                <div class="col-1">
-                    <a href="#">Link 3</a>
-                </div>
-                <div class="col">
-
-                </div>
-                <div class="col-1">
-                    <a href="./login.html">Zaluguj</a>
-                </div>
-                <div class="col-3">
-                    Nie masz jeszcze konta? <a href="register.html">Zarejestruj się</a>
-                </div>
-            </div>
-
-            <div class="row">
+<div class="row">
                 <div class="col-4">
                     Tutaj będą kategorie.<br>
                     Tutaj będą kategorie.<br>
@@ -84,10 +49,3 @@
                     </table>
                 </div>
             </div>
-            
-            <div class="col-12 footer">
-                <p>FOTOER</p>
-            </div>
-        </div>
-    </body>
-</html>
