@@ -14,5 +14,5 @@
 }
 
 .footer {
-    height: 50px;
+    background: url("../img/footer_background.png") no-repeat center;
 }
