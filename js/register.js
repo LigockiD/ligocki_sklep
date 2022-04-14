@@ -34,7 +34,7 @@ $(document).ready(function() {
         var _email = $("#email").val();
         var _rules = $("#rules").is(':checked');
 
-        $.post("action_reg.php", {
+        $.post("./engine/action_reg.php", {
             fname: _fname,
             lname: _lname,
             uname: _uname,
