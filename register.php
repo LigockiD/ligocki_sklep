@@ -21,9 +21,9 @@
                         <input class="form-control" type="password" id="pass" name="pass" placeholder="Hasło" aria-label="Hasło"><br>
                         <input class="form-control" type="password" id="pass2" name="pass2" placeholder="Powtórz hasło" aria-label="Powtórz hasło"><br>
                         <input class="form-control" type="text" id="email" name="email" placeholder="Email" aria-label="Email"><br><br>
-                        <input class="form-check-input" type="checkbox" id="rules" name="rules"> Czy akceptujesz <a href="#">regulamin</a>?<br>
-                        <br>
-                        <input type="submit" id="register" name="register" value="Zarejestruj">
+                        
+                        <label class="form-control order-1" for=rules><input class="form-check-input" type="checkbox" id="rules" name="rules"> &nbspCzy akceptujesz <a href="#">regulamin</a>?</label><br><br>
+                        <input class="btn btn-outline-dark" type="submit" id="register" name="register" value="Zarejestruj">  
                     </form>
                 </div>
             </div>

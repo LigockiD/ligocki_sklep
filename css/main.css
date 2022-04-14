@@ -26,3 +26,7 @@ body {
     color: #f00;
     font-weight: bold;
 }
+
+.nav-tabs {
+    border: 0px solid black !important;
+}
